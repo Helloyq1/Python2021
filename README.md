@@ -2,6 +2,6 @@
 * Data types and variables
 * String and encoding
 * List and Tuple
-* Conditional judgment
+* Determine statements
 * Dict and Set
 ##### Homework1: Prime Number
