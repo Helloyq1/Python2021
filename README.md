@@ -15,6 +15,6 @@
 * Slice
 * Iteration
 * List Generation
-* Generaator
+* Generator
 * Iterator
 ##### Homework2: Word Count
