@@ -5,3 +5,16 @@
 * Determine statements
 * Dict and Set
 ##### Homework1: Prime Number
+
+#### Chap 2:
+* Function
+* call functions
+* Define function
+* Function parameters
+* Recursive function
+* Slice
+* Iteration
+* List Generation
+* Generaator
+* Iterator
+##### Homework2: Word Count
