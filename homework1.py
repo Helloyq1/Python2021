@@ -6,7 +6,8 @@ Definition: a prime number refers to a natural number that has no other factors 
 and itself among the natural numbers greater than 1.'''
 
 def prime(count, n):
-    for i in range(2, n-1):
+    #for i in range(2, n-1): 可以继续优化，质数不需要计算到n-1，计算到n/2 +1 就够了，更加节省时间
+    for i in range(2,n//2+1):
         if n % i ==0:  #% if the reminder is equal to zero.
             return count
         else:
