@@ -18,3 +18,4 @@
 * Generator
 * Iterator
 ##### Homework2: Word Count
+##### Homework3: Data Stock
